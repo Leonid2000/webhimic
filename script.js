@@ -43,25 +43,25 @@ function openphoto(a) {
     let photo = document.querySelector(".bigimg")
     photobox.style.display = "flex"
     if (a == 0) {
-        photo.src = "image/cb1.jpg"
+        photo.src = "cb1.jpg"
     }
     if (a == 1) {
-        photo.src = "image/cb2.jpg"
+        photo.src = "cb2.jpg"
     }
     if (a == 2) {
-        photo.src = "image/cb3.png"
+        photo.src = "cb3.png"
     }
     if (a == 3) {
-        photo.src = "image/cb4.png"
+        photo.src = "cb4.png"
     }
     if (a == 4) {
-        photo.src = "image/cb5.jpg"
+        photo.src = "cb5.jpg"
     }
     if (a == 5) {
-        photo.src = "image/cb6.jpg"
+        photo.src = "cb6.jpg"
     }
     if (a == 6) {
-        photo.src = "image/cb7.png"
+        photo.src = "cb7.png"
     }
 }
 function closephoto() {
