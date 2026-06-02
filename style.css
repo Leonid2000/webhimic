@@ -170,7 +170,7 @@ nav a:hover li {
     width: 35%;
     height: 59vh;
     border: 0 solid rebeccapurple;
-    /* background-image: url(image/hero.png);
+    /* background-image: url(hero.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right; */
@@ -425,7 +425,7 @@ nav a:hover li {
 .contact {
     color: white;
     width: 18%;
-    background-image: url(image/backcont.png);
+    background-image: url(backcont.png);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 15px;
@@ -704,7 +704,7 @@ h1 {
 }
 
 .project {
-    background-image: url(image/proj.png);
+    background-image: url(proj.png);
     background-size: cover;
     border-radius: 20px;
     width: 35%;
@@ -777,34 +777,34 @@ h1 {
     display: none;
 }
 .compcase1 {
-    background-image: url(image/c1.png);
+    background-image: url(c1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .compcase2 {
-    background-image: url(image/c2.png);
+    background-image: url(c2.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .compcase3 {
-    background-image: url(image/c3.png);
+    background-image: url(c3.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .compcase4 {
-    background-image: url(image/c4.png);
+    background-image: url(c4.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 .compcase5 {
-    background-image: url(image/c5.png);
+    background-image: url(c5.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -812,7 +812,7 @@ h1 {
 }
 
 .compcase6 {
-    background-image: url(image/c6.png);
+    background-image: url(c6.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -820,7 +820,7 @@ h1 {
 }
 
 .compcase7 {
-    background-image: url(image/c7.png);
+    background-image: url(c7.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1057,7 +1057,7 @@ footer {
 .vk {
     width: 100%;
     height: 100%;
-    background-image: url(image/vk.png);
+    background-image: url(vk.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1069,7 +1069,7 @@ footer {
     margin: 0 auto;
     width: 80%;
     height: 80%;
-    background-image: url(image/tg.png);
+    background-image: url(tg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1081,7 +1081,7 @@ footer {
     margin: 0 auto;
     width: 80%;
     height: 80%;
-    background-image: url(image/wp.png);
+    background-image: url(wp.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
